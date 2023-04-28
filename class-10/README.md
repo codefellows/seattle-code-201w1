@@ -1,5 +1,10 @@
 # JS Debugging and More CSS Layout
 
+## In class Replits
+
+- [Debugging Replit](https://replit.com/@arpatterson31/Class-201d97-Debugging#index.js)
+- [More Array Methods](https://replit.com/@arpatterson31/Class-201d97-More-Array-Methods)
+
 ## Overview
 
 Learning how to **debug** your code will help you to better identify the errors you see in your console, and how to fix them.
